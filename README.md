@@ -26,5 +26,5 @@ Le script générera automatiquement des liens d'invitation Nitro et les enverra
 
 Ce script a été créé par fr41tr42.
 
-Licence
+# Licence
 Ce script est distribué sous la Licence MIT.
