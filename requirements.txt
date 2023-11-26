@@ -1,0 +1,6 @@
+colorama
+requests
+random
+strings
+os-sys
+python-time
