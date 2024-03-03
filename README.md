@@ -2,7 +2,7 @@
 
 # Description
 
-Nitro Gen de fr41tr42 est un script Python simple permettant de générer des liens d'invitation Nitro pour Discord. Le script utilise un Webhook Discord pour envoyer les liens générés.
+Nitro Gen de Furkan-FRTR est un script Python simple permettant de générer des liens d'invitation Nitro pour Discord. Le script utilise un Webhook Discord pour envoyer les liens générés.
 
 # Prérequis
 
@@ -24,7 +24,7 @@ Le script générera automatiquement des liens d'invitation Nitro et les enverra
 - Gestion des réponses HTTP pour vérifier l'état des liens générés.
 - Notification `@everyone` lors de la découverte d'un cadeau valide.
 
-Ce script a été créé par fr41tr42.
+Ce script a été créé par Furkan-FRTR.
 
 # Licence
 Ce script est distribué sous la Licence MIT.
